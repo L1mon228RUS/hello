@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 YaBrowser/25.10.0.0 Safari/537.36" version="29.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 YaBrowser/25.12.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Степлер" id="FAVgLth1M8WLf0eNGx1M">
     <mxGraphModel dx="1042" dy="1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,15 +43,7 @@
             <mxPoint x="320" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8C62agvFzfKAm22oSSxo-18" edge="1" parent="1" source="8C62agvFzfKAm22oSSxo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8C62agvFzfKAm22oSSxo-6" value="Сжимать">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="610" y="190" />
-              <mxPoint x="610" y="190" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8C62agvFzfKAm22oSSxo-19" edge="1" parent="1" source="8C62agvFzfKAm22oSSxo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8C62agvFzfKAm22oSSxo-5" value="Ф6: Возвращать в исходное положение">
+        <mxCell id="8C62agvFzfKAm22oSSxo-19" edge="1" parent="1" source="8C62agvFzfKAm22oSSxo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8C62agvFzfKAm22oSSxo-5" value="">
           <mxGeometry relative="1" x="0.1201" y="41" as="geometry">
             <mxPoint x="31" y="40" as="offset" />
           </mxGeometry>
@@ -63,7 +55,7 @@
             <mxPoint x="560" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P09XqR4g6fM2wDDseXD6-2" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="Воспринимает усилие" vertex="1">
+        <mxCell id="P09XqR4g6fM2wDDseXD6-2" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="Ф1: Воспринимает усилие" vertex="1">
           <mxGeometry height="40" width="150" x="445" y="-40" as="geometry" />
         </mxCell>
         <mxCell id="P09XqR4g6fM2wDDseXD6-3" edge="1" parent="1" source="8C62agvFzfKAm22oSSxo-4" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="8C62agvFzfKAm22oSSxo-10" value="">
@@ -73,10 +65,10 @@
             <mxPoint x="520" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P09XqR4g6fM2wDDseXD6-4" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="Воспринимает усилие" vertex="1">
+        <mxCell id="P09XqR4g6fM2wDDseXD6-4" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="Ф7: Воспринимает усилие" vertex="1">
           <mxGeometry height="40" width="150" x="445" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="P09XqR4g6fM2wDDseXD6-6" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ф5: Деформировать ножки скобы&lt;/span&gt;" vertex="1">
+        <mxCell id="P09XqR4g6fM2wDDseXD6-6" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ф4: Деформировать ножки скобы&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="335" y="330" as="geometry" />
         </mxCell>
         <mxCell id="P09XqR4g6fM2wDDseXD6-8" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ф3: Отделение скобы от общего блока&lt;/span&gt;" vertex="1">
@@ -103,7 +95,7 @@
             <mxPoint x="730" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vp2U6efICDzdR-8fzfVk-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ф4&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 11px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;: Скоба пробивает бумагу&lt;/span&gt;" vertex="1">
+        <mxCell id="Vp2U6efICDzdR-8fzfVk-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 11px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;Скоба пробивает бумагу&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="240" y="250" as="geometry" />
         </mxCell>
         <mxCell id="Y64xZ7QzlSX842dnktAj-1" edge="1" parent="1" source="8C62agvFzfKAm22oSSxo-4" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="8C62agvFzfKAm22oSSxo-8" value="">
@@ -133,11 +125,17 @@
             <mxPoint x="440" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y64xZ7QzlSX842dnktAj-7" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ф7: Соединяет механизм подачи скоб&lt;br&gt;&amp;nbsp;и основание&lt;/span&gt;" vertex="1">
+        <mxCell id="Y64xZ7QzlSX842dnktAj-7" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ф5: Соединяет механизм подачи скоб&lt;br&gt;&amp;nbsp;и основание&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="590" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="Y64xZ7QzlSX842dnktAj-8" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ф7: Соединяет механизм&lt;br&gt;&amp;nbsp;подачи скоб&amp;nbsp;и основание&lt;/span&gt;" vertex="1">
+        <mxCell id="Y64xZ7QzlSX842dnktAj-8" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ф5: Соединяет механизм&lt;br&gt;&amp;nbsp;подачи скоб&amp;nbsp;и основание&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="140" x="335" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="i1ftezLDs93kI9LVPKj--4" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Сжимает&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="595" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="i1ftezLDs93kI9LVPKj--7" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 11px; text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Ф6: Возвращать&lt;br&gt;&amp;nbsp;в исходное &lt;br&gt;положение&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="580" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
